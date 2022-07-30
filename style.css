@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+.nav{
+  align-items: center;
+  text-align: center;  
+}
+.iano{
+  margin-left: 260px;
+  margin-right: 40px;
+  padding-right: auto;
+}
+.mainfooter{
+  padding-bottom: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+ 
+  
+}
+#details{
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  padding-left: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
